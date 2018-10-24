@@ -1,0 +1,29 @@
+﻿Build started 10/24/2018 8:21:30 AM.
+     1>Project "c:\Users\Ailton\documents\visual studio 2010\Projects\Anti-Emulator_CallbacksTecniques\Anti-Emulator_CallbacksTecniques\Anti-Emulator_CallbacksTecniques.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Anti-Emulator_CallbacksTecniques.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Anti-Emulator_CallbacksTecniques.cpp"
+         Anti-Emulator_CallbacksTecniques.cpp
+     1>c:\users\ailton\documents\visual studio 2010\projects\anti-emulator_callbackstecniques\anti-emulator_callbackstecniques\securememorycache_callback.h(4): warning C4005: '_WIN32_WINNT' : macro redefinition
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\sdkddkver.h(197) : see previous definition of '_WIN32_WINNT'
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Anti-Emulator_CallbacksTecniques.exe.embed.manifest.res" Debug\Anti-Emulator_CallbacksTecniques_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ailton\documents\visual studio 2010\Projects\Anti-Emulator_CallbacksTecniques\Debug\Anti-Emulator_CallbacksTecniques.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Anti-Emulator_CallbacksTecniques.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\ailton\documents\visual studio 2010\Projects\Anti-Emulator_CallbacksTecniques\Debug\Anti-Emulator_CallbacksTecniques.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ailton\documents\visual studio 2010\Projects\Anti-Emulator_CallbacksTecniques\Debug\Anti-Emulator_CallbacksTecniques.lib" /MACHINE:X86 "Debug\Anti-Emulator_CallbacksTecniques.exe.embed.manifest.res"
+         "Debug\Anti-Emulator_CallbacksTecniques.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Anti-Emulator_CallbacksTecniques.exe.embed.manifest" /manifest "Debug\Anti-Emulator_CallbacksTecniques.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Anti-Emulator_CallbacksTecniques.exe.embed.manifest.res" Debug\Anti-Emulator_CallbacksTecniques_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\ailton\documents\visual studio 2010\Projects\Anti-Emulator_CallbacksTecniques\Debug\Anti-Emulator_CallbacksTecniques.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Anti-Emulator_CallbacksTecniques.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\ailton\documents\visual studio 2010\Projects\Anti-Emulator_CallbacksTecniques\Debug\Anti-Emulator_CallbacksTecniques.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\ailton\documents\visual studio 2010\Projects\Anti-Emulator_CallbacksTecniques\Debug\Anti-Emulator_CallbacksTecniques.lib" /MACHINE:X86 "Debug\Anti-Emulator_CallbacksTecniques.exe.embed.manifest.res"
+         "Debug\Anti-Emulator_CallbacksTecniques.obj"
+         Anti-Emulator_CallbacksTecniques.vcxproj -> c:\users\ailton\documents\visual studio 2010\Projects\Anti-Emulator_CallbacksTecniques\Debug\Anti-Emulator_CallbacksTecniques.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Anti-Emulator_CallbacksTecniques.unsuccessfulbuild".
+         Touching "Debug\Anti-Emulator_CallbacksTecniques.lastbuildstate".
+     1>Done Building Project "c:\Users\Ailton\documents\visual studio 2010\Projects\Anti-Emulator_CallbacksTecniques\Anti-Emulator_CallbacksTecniques\Anti-Emulator_CallbacksTecniques.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.15
